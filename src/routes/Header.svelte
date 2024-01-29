@@ -1,4 +1,4 @@
-<div class="navbar text-primary-content rounded-full shadow-lg shadow-2xl mt-5" style="width: 60%; margin: auto;">
+<div class="navbar bg-primary text-primary-content rounded-full shadow-lg shadow-3xl" style="width: 60%; margin: auto;margin-top: 20px;">
 	<div class="navbar-start">
 	  <div class="dropdown">
 		<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
