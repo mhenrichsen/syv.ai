@@ -5,22 +5,25 @@
 
 
 <div class="container mx-auto p-4 grid md:grid-cols-4 gap-4">
-  <div class="md:col-span-2 flex items-center">
+  <div class="md:col-span-2 flex items-center justify-center flex-col">
     <div class="p-6 text-lg">
       <h1 class="text-center text-3xl font-bold">
 		GenAI løsninger der er til at forstå.
 	  </h1>
       <p class="text-center text-xl mt-4">
-        Vores GenAI løsninger kan hjælpe med at automatisere processer, forbedre beslutningstagning og frigøre dine medarbejdere fra rutinearbejde.
+        Vores GenAI løsninger kan hjælpe med at automatisere processer, forbedre beslutningstagning og frigøre dig fra rutinearbejde.
       </p>
+	  <div class="flex justify-center mt-4">
+	  <button class="btn btn-outline btn-accent">Hør mere</button>
     </div>
+  </div>
   </div>
   <div class="md:col-span-2">
     <div class="p-6">
 		<div class="chat chat-start">
 			<div class="chat-image avatar">
 			  <div class="w-10 rounded-full">
-				<img alt="Tailwind CSS chat bubble component" src="https://i.imgur.com/9fWOV8H.png" />
+				<img alt="Tailwind CSS chat bubble component" src="https://i.imgur.com/IAM61Xf.jpeg" />
 			  </div>
 			</div>
 			<div class="chat-header">
@@ -42,13 +45,13 @@
 		  <div class="chat chat-start">
 			<div class="chat-image avatar">
 			  <div class="w-10 rounded-full">
-				<img alt="Tailwind CSS chat bubble component" src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+				<img alt="Tailwind CSS chat bubble component" src="https://i.imgur.com/IAM61Xf.jpeg" />
 			  </div>
 			</div>
 			<div class="chat-header">
 			  Mads
 			</div>
-			<div class="chat-bubble">Hvilken former af undervisning?</div>
+			<div class="chat-bubble">Hvilke former af undervisning?</div>
 		  </div>
 		  <div class="chat chat-end">
 			<div class="chat-image avatar">
@@ -70,17 +73,16 @@
 	<h2 class="text-center text-3xl font-bold text-black">
 		DanskGPT statistik
 	</h2>
-    <div class="container px-5 py-6 mx-auto">
-      <div class="flex flex-wrap -m-4 text-center">
-        <div class="p-4 sm:w-1/4 w-1/2">
+    <div class="container px-5 py-6 mx-auto flex justify-center">
+      <div class="flex flex-wrap -m-4 text-center max-w-md mx-auto">
+        <div class="p-4 sm:w-1/2 w-full">
           <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">45k</h2>
           <p class="leading-relaxed">Oprettede samtaler</p>
         </div>
-        <div class="p-4 sm:w-1/4 w-1/2">
+        <div class="p-4 sm:w-1/2 w-full">
           <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">250k</h2>
           <p class="leading-relaxed">API kald</p>
         </div>
       </div>
     </div>
 </section>
-  
