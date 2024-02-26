@@ -21,7 +21,9 @@
         Vores GenAI-løsninger kan hjælpe med at automatisere processer, forbedre beslutningstagning og frigøre dig fra rutinearbejde.
       </p>
 	  <div class="flex justify-center mt-4">
-	  <button class="btn btn-outline btn-accent btn-lg"><a href="/kontakt">Hør mere</a></button>
+  		<a href="/kontakt">
+	  		<button class="btn btn-outline btn-accent btn-lg">Hør mere</button>
+  		</a>
     </div>
   </div>
   </div>
